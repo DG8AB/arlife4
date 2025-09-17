@@ -26,6 +26,7 @@
 • **Message Management System** - View and manage contact form submissions
 • **Content Management** - Live editing capabilities for site content
 • **Site Editor Interface** - Real-time content editing tools
-• **Analytics Dashboard** - Site performance and visitor analytics
-• **Settings & Security** - Admin configuration options
-• **Backup Functionality** - Data backup and restore capabilities
+
+## Thanks for reading, and remember, you pay me before you get the website.
+
+**After you pay you get full access.**
