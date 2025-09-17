@@ -1,32 +1,30 @@
-## **Your Websites Features**
+# Clone ar4life website
 
-• **Homepage** - Main landing page with hero section, services overview, and company branding
-• **Navigation System** - Responsive header with logo and menu navigation
-• **Hero Section** - Main banner showcasing AR4Life's mission and services
-• **Services Section** - Grid layout displaying all service offerings
-• **Footer** - Site footer with navigation links and company information
+*Automatically synced with your [v0.app](https://v0.app) deployments*
 
-## **Service Pages**
+[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/dg8abb-6953s-projects/v0-clone-ar4life-website)
+[![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/projects/W2mqHz085eS)
 
-• **ERP Services Page** - Dedicated page for Enterprise Resource Planning services
-• **Salesforce Services Page** - Specialized Salesforce consulting and implementation services
-• **Sourcing & Staffing Page** - Recruitment and staffing solutions
+## Overview
 
-## **Contact System**
+This repository will stay in sync with your deployed chats on [v0.app](https://v0.app).
+Any changes you make to your deployed app will be automatically pushed to this repository from [v0.app](https://v0.app).
 
-• **Contact Page** - Standalone contact form with dynamic functionality
-• **Supabase Integration** - Database storage for contact form submissions
-• **Admin-Controlled Contact Form** - Can be disabled/enabled via admin panel
-• **Custom POST URL Support** - Admin can configure form to post to external URLs
+## Deployment
 
-## **Admin Dashboard Features**
+Your project is live at:
 
-• **Admin Authentication** - Password-protected admin access
-• **Contact Form Management** - Toggle between disabled/enabled states
-• **Message Management System** - View and manage contact form submissions
-• **Content Management** - Live editing capabilities for site content
-• **Site Editor Interface** - Real-time content editing tools
+**[https://vercel.com/dg8abb-6953s-projects/v0-clone-ar4life-website](https://vercel.com/dg8abb-6953s-projects/v0-clone-ar4life-website)**
 
-## Thanks for reading, and remember, you pay me before you get the website.
+## Build your app
 
-**After you pay you get full access.**
+Continue building your app on:
+
+**[https://v0.app/chat/projects/W2mqHz085eS](https://v0.app/chat/projects/W2mqHz085eS)**
+
+## How It Works
+
+1. Create and modify your project using [v0.app](https://v0.app)
+2. Deploy your chats from the v0 interface
+3. Changes are automatically pushed to this repository
+4. Vercel deploys the latest version from this repository
